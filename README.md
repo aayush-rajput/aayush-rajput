@@ -38,28 +38,28 @@ Final-year Electronics & Computer Science Engineering student who builds full-st
 
 ## Featured Projects
 
-### [Resume-to-Job Matcher: NLP Ranking System](https://github.com/aayush-rajput/REPO-NAME)
+### [Resume-to-Job Matcher: NLP Ranking System](https://github.com/aayush-rajput/Resume-to-job-matcher)
 Scores resume and job-description fit on a 0 to 100 scale and reports matching keywords and missing skills.
 - Compared a TF-IDF and cosine similarity baseline against `all-MiniLM-L6-v2` sentence embeddings
 - Extracts skills with spaCy to generate skill-gap reports
 - Deployed as an interactive Streamlit application
 - **Tech:** Python, scikit-learn, sentence-transformers, spaCy, pandas, Streamlit
 
-### [SportsHub: Sports Community Platform](https://github.com/aayush-rajput/REPO-NAME)
+### [SportsHub: Sports Community Platform](https://github.com/aayush-rajput/Sportshub)
 Full-stack community platform with real-time chat and AI-assisted moderation.
 - Spring AI-powered toxicity flagging for chat messages
 - Real-time match-day chat and notifications using Spring WebSocket (STOMP), load-tested with 100 to 150 concurrent users
 - Normalized PostgreSQL schema with Spring Data JPA, secured with JWT and role-based access control
 - **Tech:** Spring Boot, Spring AI, Spring Security, PostgreSQL, React, WebSocket
 
-### [BookEasy](https://github.com/aayush-rajput/REPO-NAME) | [Live Demo](LIVE-DEMO-LINK)
+### [BookEasy](https://github.com/aayush-rajput/Bookeasy) 
 Booking platform with multi-role access for Users, Vendors and Admins.
 - Role-Based Access Control built on top of OAuth authentication
 - API-level validation that rejects malformed and unauthorized requests
 - Deployed on Vercel
 - **Tech:** Next.js, Tailwind CSS, Supabase, OAuth, REST APIs
 
-### [Ghost Data Audit](https://github.com/aayush-rajput/REPO-NAME)
+### [Ghost Data Audit](https://github.com/aayush-rajput/Ghost-Data-Audit)
 Python data-audit pipeline built for the HackerRank Orchestrate challenge.
 - Processes input records and generates a structured `output.csv` of audit results
 - Includes an evaluation workflow that checks outputs against expected results

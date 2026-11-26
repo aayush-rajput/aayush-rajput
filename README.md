@@ -67,7 +67,7 @@ Python data-audit pipeline built for the HackerRank Orchestrate challenge.
 
 ---
 
-## Experience
+## Internship Experience
 
 **Full Stack Developer Intern, Eduteria (EdTech Startup), 2025 – 2026**
 - Built an admin interface for creating courses, updating batch details, managing pricing and publishing course information

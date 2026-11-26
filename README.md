@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aayush-kumar">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/aayush-kumar-696a02249">LinkedIn</a> |
   <a href="https://github.com/aayush-rajput">GitHub</a> |
   <a href="mailto:iaayushrajput@gmail.com">Email</a>
 </p>
